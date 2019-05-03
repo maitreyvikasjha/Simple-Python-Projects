@@ -11,3 +11,4 @@ elif is_cold:
 
 else:
     print("Have a nice day")
+
